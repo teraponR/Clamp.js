@@ -1,0 +1,23 @@
+{
+  "name": "clamp",
+  "homepage": "https://github.com/teraponR/Clamp.js",
+  "authors": [
+    "josephscmitt"
+  ],
+  "description": "Ellipse for multiline",
+  "main": "clamp.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "clamp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
